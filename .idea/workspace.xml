@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bf12c762-5bba-4a72-8033-581f0916bad6" name="Changes" comment="changed test">
       <change beforePath="$PROJECT_DIR$/src/test/java/config/AuthConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/config/AuthConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/properties/remore.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/properties/remote.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/properties/auth.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/properties/auth.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684876198779</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changed test">
+      <created>1684876455016</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684876455016</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
