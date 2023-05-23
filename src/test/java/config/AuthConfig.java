@@ -2,10 +2,8 @@ package config;
 
 import org.aeonbits.owner.Config;
 
-@Config.LoadPolicy(Config.LoadType.MERGE)
 @Config.Sources({
-        "classpath:auth.properties",
-        "system:properties"
+        "classpath:${env}.properties"
 })
 
 public interface AuthConfig extends Config {

@@ -10,7 +10,7 @@ import static config.ProjectConfig.openProjectUrl;
 import static io.qameta.allure.Allure.step;
 import static tests.TestData.*;
 
-
+@Tag("editing")
 @Feature("Edit testcase")
 @Story("Edit created with API test")
 @Owner("korovinaiyu")
@@ -20,7 +20,6 @@ public class EditTestCaseTests extends TestBase {
     TestCasePage testCasePage = new TestCasePage();
 
     @Test
-    @Tag("editing")
     @DisplayName("Add description to created with API testcase")
     void addDescriptionToTestCase() {
 
