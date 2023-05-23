@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf12c762-5bba-4a72-8033-581f0916bad6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/config/AuthConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/config/WebDriverConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/config/WebDriverProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/Attach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/CustomApiListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/models/CreateTestCaseBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/models/CreateTestCaseResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/TestCasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/spec/Specs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/EditTestCaseTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/FakerUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/properties/auth.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/properties/local.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/properties/remore.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/tpl/request.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/tpl/response.ftl" afterDir="false" />
-    </list>
+    <list default="true" id="bf12c762-5bba-4a72-8033-581f0916bad6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +80,7 @@
       <recent name="models" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.EditTestCaseTests.editStepOfTestCase">
+  <component name="RunManager" selected="Gradle.EditTestCaseTests.addCommentToCreatedWithAPITest">
     <configuration name="EditTestCaseTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -229,9 +198,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.EditTestCaseTests.addCommentToCreatedWithAPITest" />
         <item itemvalue="Gradle.EditTestCaseTests.editStepOfTestCase" />
         <item itemvalue="Gradle.EditTestCaseTests.deleteCreatedWithAPITest" />
-        <item itemvalue="Gradle.EditTestCaseTests.addCommentToCreatedWithAPITest" />
         <item itemvalue="Gradle.EditTestCaseTests" />
         <item itemvalue="Gradle.EditTestCaseTests.addDescriptionToTestCase" />
       </list>
