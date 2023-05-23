@@ -37,7 +37,6 @@ public class EditTestCaseTests extends TestBase {
     }
 
     @Test
-    @Tag("editing")
     @DisplayName("Add step to created with API testcase")
     void addStepToTestCase() {
 
@@ -56,7 +55,6 @@ public class EditTestCaseTests extends TestBase {
     }
 
     @Test
-    @Tag("editing")
     @DisplayName("Edit step name of created with API testcase")
     void editStepOfTestCase() {
 
@@ -85,7 +83,6 @@ public class EditTestCaseTests extends TestBase {
     }
 
     @Test
-    @Tag("editing")
     @DisplayName("Add comment to created with API testcase")
     void addCommentToCreatedWithAPITest() {
 
@@ -102,7 +99,6 @@ public class EditTestCaseTests extends TestBase {
     }
 
     @Test
-    @Tag("editing")
     @DisplayName("Delete created with API testcase")
     void deleteCreatedWithAPITest() {
 
