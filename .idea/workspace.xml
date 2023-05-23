@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf12c762-5bba-4a72-8033-581f0916bad6" name="Changes" comment="changed test">
-      <change beforePath="$PROJECT_DIR$/src/test/java/config/AuthConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/config/AuthConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/properties/auth.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/properties/auth.properties" afterDir="false" />
-    </list>
+    <list default="true" id="bf12c762-5bba-4a72-8033-581f0916bad6" name="Changes" comment="changed test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -261,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684876455016</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="changed test">
+      <created>1684876781433</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684876781433</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
