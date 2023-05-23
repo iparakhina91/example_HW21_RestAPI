@@ -46,23 +46,14 @@ dependencies {
     )
 }
 
-//tasks.withType(Test) {
-  //  systemProperties(System.getProperties())
-    //useJUnitPlatform()
-
-   // testLogging {
-     //   lifecycle {
-       //     events "started", "skipped", "failed", "standard_error", "standard_out"
-         //   exceptionFormat "short"
-        //}
-    //}
-//}
-
-test {
+tasks.withType(Test) {
     systemProperties(System.getProperties())
-    useJUnitPlatform {
-        if (System.getProperty("tag") != null && !System.getProperty("tag").isEmpty()) {
-            includeTags System.getProperty("tag")
+    useJUnitPlatform()
+
+    testLogging {
+        lifecycle {
+            events "started", "skipped", "failed", "standard_error", "standard_out"
+            exceptionFormat "short"
         }
     }
 }
