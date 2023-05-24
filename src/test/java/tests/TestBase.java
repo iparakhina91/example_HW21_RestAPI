@@ -11,7 +11,6 @@ import models.CreateTestCaseResponse;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
-import pages.TestCasePage;
 
 import static io.qameta.allure.Allure.step;
 import static io.restassured.RestAssured.given;
@@ -21,8 +20,6 @@ import static spec.Specs.responseSuccess;
 import static tests.TestData.testCaseName;
 
 public class TestBase {
-
-    TestCasePage testCasePage = new TestCasePage();
 
     public static String
             projectId = "2285",
